@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1><font color=red>Congratulations <br><font color=gold>DevOps Engineer!!!</font></h1>
+        <h1><font color=gold>Congratulations! <br><font color=green>Welcome to my page!!!</font></h1>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
     </section>
@@ -44,7 +44,7 @@ else
             <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
             <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
         </ul>
-		<h2> Some Picture</h2>
+		<h2 > Hello. It's me =) </h2>
 		<img src="image.jpg">
     </section>
 
