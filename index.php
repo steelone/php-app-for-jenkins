@@ -44,8 +44,10 @@ else
             <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
             <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
         </ul>
-		<h2 > Hello. It's me =) </h2>
+		<h2> Hello. It's me =) </h2>
 		<img src="image.jpg">
+		<h2> My available repository on github: </h2>
+		<span>https://github.com/steelone/php-app-for-jenkins</span>
     </section>
 
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
